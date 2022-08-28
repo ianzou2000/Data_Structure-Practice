@@ -1,2 +1,2 @@
 # Data_Structure-Practice
-A warehouse to store my learning process on data structure in 2020.
+A warehouse to store my learning process on Data Structure in 2020.
